@@ -2,6 +2,7 @@
 
 mongodb_enabled: yes
 mongodb_install: yes
+mongodb_backup: no
 
 # Install with docker
 mongodb_docker: no                              # Run mongo db as docker container
